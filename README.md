@@ -1,9 +1,11 @@
 # Lap-trinh-song-song
 
 Phương trình nhiệt 2 chiều
+
 Phương pháp Gauss Seidel
 
 1. THAM SỐ ĐẦU VÀO
+
 #define m 20
 
 #define n 20
