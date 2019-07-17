@@ -15,8 +15,9 @@ Phương pháp Gauss Seidel
 
 2. KHỞI TẠO ĐIỀU KIỆN BAN ĐẦU
 
-void KhoiTao(float *C) {
 
+void KhoiTao(float *C) {
+	
 	int i, j;
 	
 	for (int i = 0; i < m; i++)
@@ -31,6 +32,5 @@ void KhoiTao(float *C) {
 				
 			else
 			
-				*(C + n * i + j) = 25;
-				
+				*(C + n * i + j) = 25;				
 }
