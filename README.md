@@ -1,4 +1,4 @@
-# Lap-trinh-song-song
+# Heat Diffusion Equation 2D
 
 Phương trình nhiệt 2 chiều
 
